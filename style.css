@@ -16,10 +16,10 @@
 .mains{
     margin-top: -5rem;
     width: 100%;
-    background: url(pic/bg.jpg);
+   background-color: #333;
     background-position: center;
-    background-size: cover;
-    height: 180vh;
+    background-size: auto;
+    height: auto;
     position: relative;
     font-family: sans-serif;
 }
@@ -235,6 +235,18 @@ ul li a:hover{
 }
 
 .wok5{
+    margin-top: -3%;
+    width: 64%;
+    margin-left: 17%;
+}
+
+.wok6{
+    margin-top: -3%;
+    width: 64%;
+    margin-left: 17%;
+}
+
+.wok7{
     margin-top: -3%;
     width: 64%;
     margin-left: 17%;
