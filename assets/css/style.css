@@ -1,4 +1,4 @@
-﻿@charset "UTF-8";
+@charset "UTF-8";
 /*---------------------------
  CSS Index  
 ****************************
@@ -11267,6 +11267,7 @@ body.template-color-1 {
 @media only screen and (max-width: 767px) {
   .logo a img {
     max-height: 54px;
+    margin: -40px;
   }
 }
 
